@@ -1,6 +1,6 @@
 #Change the job.lua in jobs.lua to work
 This code contanes more police and more crime characters
-
+No link to workshop with this one, Change it how you like
 
 TEAM_CITIZEN = AddExtraTeam("Citizen", {
 	color = Color(20, 150, 20, 255),
