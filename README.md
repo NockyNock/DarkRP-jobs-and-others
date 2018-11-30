@@ -1,2 +1,3 @@
 # DarkRP-jobs-and-others
-This is a place of all my Darkrp Code I make or customize for my server or other people
+Please Remember that this code I write or customize if for anybody's use, 
+Every job or addon Script I write will have a steam workshop link that will bring you to the weapon or addon etc.
