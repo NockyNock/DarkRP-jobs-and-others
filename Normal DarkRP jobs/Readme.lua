@@ -1,4 +1,4 @@
-Remember to add the josb into darkrpmodification/lua/darkrp_customthings/jobs.lua
+Remember to add the jobs into darkrpmodification/lua/darkrp_customthings/jobs.lua
 How to make your own DarkRP job. (If you don't understand use this website to create it https://csite.io/tools/gmod-darkrp-job)
 
 TEAM_NAME = DarkRP.createJob("JOB NAME", {
